@@ -1,0 +1,33 @@
+_repo: Jenseits-der-Schriftkultur---Band-1_4371
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Nadin, Mihai
+    birthdate: 1938
+    gutenberg_agent_id: '930'
+    url: http://www.gutenberg.org/2009/agents/930
+    wikipedia: http://en.wikipedia.org/wiki/Mihai_Nadin
+description: ''
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '2003-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4371'
+language: de
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Oral history'
+- !lcsh 'Information society'
+- !lcsh 'Literacy -- Social aspects'
+- !lcsh 'Computers and literacy'
+- !lcc 'T'
+- !lcsh 'Technology and civilization'
+- !lcsh 'Sociolinguistics'
+- !lcc 'HN'
+- !lcsh 'Social history'
+- !lcsh 'Technology -- Social aspects'
+- GITenberg
+title: Jenseits der Schriftkultur — Band 1
+url: http://www.gutenberg.org/ebooks/4371
